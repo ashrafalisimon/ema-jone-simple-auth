@@ -17,3 +17,16 @@
 .header a:hover{
     color: orange;
 }
+.btn-singOut{
+    margin-left: 20px;
+    background-color: #1C2B35;
+    border: 1px solid #fff;
+    border-radius: 5px;
+    padding: 07px 10px;
+    color: #fff;
+    font-size: 16px;
+    cursor: pointer;
+}
+.btn-singOut:hover{
+    color: orange;
+}
