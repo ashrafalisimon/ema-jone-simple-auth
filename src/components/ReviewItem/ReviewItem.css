@@ -1,0 +1,48 @@
+.review-container{
+    display: flex;
+    border: 1px solid #95A0A7;
+    border-radius: 8px;
+    padding: 8px;
+    width: 60%;
+    margin: auto;
+    margin-top: 15px;
+    align-items: center;
+    column-gap: 10px;
+}
+.review-img img{
+    width: 91px;
+    border-radius: 5px;
+}
+.review-details-container{
+    display: flex;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+}
+.review-details h4,p{
+    margin: 0;
+}
+.review-details h4{
+    font-size: 21px;
+}
+.review-details p{
+    font-size: 15px;
+}
+.review-details p span{
+    color: orange;
+}
+.details-flex p{
+    display: flex;
+}
+.delete-btn{
+    border: none;
+    background-color:rgba(235, 87, 87, 0.3);
+    height: 55px;
+    width: 55px;
+    border-radius: 50%;
+}
+.btn-icon{
+    color: #EB5757;
+    font-size: 27px;
+    font-weight: 300;
+}
